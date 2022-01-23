@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Tour.scss';
-
+ 
 export default class Tour extends Component {
     state = {
         showInfo: false

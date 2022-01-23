@@ -1,5 +1,5 @@
 export const tourData = [
-    {
+    { 
         id: 1,
         city: "new york",
         img: "./img/newyork.jpeg",
